@@ -42,6 +42,10 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 	}
  ```
 
+Здесь мы объявляем три переменные num1, num2, result  и выполняем операцию сложения. Затем выводим результат в окне textBox3 при этом преобразуем текст в String.
+
+Аналогично нужно написать обработчики для кнопок вычитания, умножения и деления.
+
 ## Автор
 
 * VK: <a href="https://vk.com/ismail2003">Алиев Исмаил</a>
