@@ -1,0 +1,4 @@
+C:\Users\aliev\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\aliev\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aliev\source\repos\Calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+C:\Users\aliev\source\repos\Calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
